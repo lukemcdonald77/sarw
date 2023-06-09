@@ -1,6 +1,6 @@
 
 ## SAW (self-avoiding walk) Python implementation
-A Self-Avoiding Random Walk (SARW) is a mathematical concept involving a path on a grid or lattice that never crosses its own track — in graphical terms, it is a path without loops.[Further reading](https://en.wikipedia.org/wiki/Self-avoiding_walk)
+A Self-Avoiding Random Walk (SARW) is a mathematical concept involving a path on a grid or lattice that never crosses its own track — in graphical terms, it is a path without loops. [Further reading](https://en.wikipedia.org/wiki/Self-avoiding_walk)
 ## Uses
 - Risk Management
 - Derivatives Pricing
